@@ -87,7 +87,6 @@ ________________________________________________________________________________
 - Multiple classification algorithms tested:
 - Logistic Regression
 - Random Forest
-- XGBoost / Gradient Boosting
 
 #### ✔ Evaluation
 - Accuracy, Precision, Recall, F1-Score

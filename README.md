@@ -116,15 +116,3 @@ Automated churn alert systems
 
 API-based deployment
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________
-
-# 📬 Contact
-If you'd like to discuss this project, collaborate, or need help:
-
-👤 Name: Sammidi Santhoshi Rani
-
-📧 Email: datascientistsanthoshi@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/sammidi-santhoshi-rani-aspiring-data-scientist
-
-💻 GitHub: https://github.com/Santhoshi-Rani
